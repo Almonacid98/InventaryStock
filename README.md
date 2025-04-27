@@ -1,2 +1,1 @@
-# InventaryStock
-Repo de pruebas
+# Ingenieria_de_software 
