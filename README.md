@@ -1,0 +1,2 @@
+# InventaryStock
+Repo de pruebas
